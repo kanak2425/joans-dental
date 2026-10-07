@@ -1,0 +1,6 @@
+{
+  "name": "Joan Andrews Denture Clinic",
+  "description": "Interactive anatomical denture care experience for Joan Andrews Denture Clinic in St. John's, Newfoundland.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
